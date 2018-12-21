@@ -9,4 +9,4 @@ https://github.com/marmano/codedb-content
 
 | Language | Usage |
 | - | - |
-| [C#](http://codedb.m-mano.dk/csharp/) | Console, Desktop, Web |
+| [C#](/csharp/) | Console, Desktop, Web |
