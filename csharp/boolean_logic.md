@@ -44,7 +44,7 @@ a <= c // True
 a <= d // True
 ```
 ***Greater than***  
-To asseert if one value is small than the other, > is used.
+To assert if one value is small than the other, > is used.
 ```chsarp
 int a = 20;
 int b = 15;
@@ -54,7 +54,7 @@ a > b // True
 a > c // False
 ```
 ***Greater than or equal***  
-To asseert if one value is small than or equal to the other, >= is used.
+To assert if one value is small than or equal to the other, >= is used.
 ```csharp
 int a = 20;
 int b = 15;
