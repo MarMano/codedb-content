@@ -37,7 +37,7 @@ b = 23; // ERROR. Variable b is NOT accessable here.
 ```
 #### Var Keyword
 When assigning variables, it is possible to get the compiler guess what type the values is with the var keyword.
-```scharp
+```csharp
 var myString = "Hello World!"; // Compiler  guess: string
 var myVar = 42; // Compiler guess: int
 ```
