@@ -12,3 +12,8 @@ All content shown on the site, are pulled directly from here.
 index.md in the Root folder contains the information for the main page.  
 Each topic on the site is located in a separate folder and linked from the main page.  
 When no specific page is selected, the file **introduction.md** is shown, therefore each topic must contain a file with this name.
+
+## Tester
+In order to test your produced markdown in the environment of CodeDB, head over to:  
+http://codedb.m-mano.dk/test  
+Here you can paste your markdown, and see it as it will be shown in CodeDB
