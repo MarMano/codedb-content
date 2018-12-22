@@ -2,4 +2,4 @@
 * [Introduction](/csharp/)
 * [.Net Framework](/csharp/netframework)
 #### C# Basic
-* [Variables](/csharp/Variables)
+* [Variables](/csharp/variables)
