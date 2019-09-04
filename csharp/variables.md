@@ -20,7 +20,7 @@ After a variable has been created, it can be updated like this:
 int a = 42; // Create the variable
 a = 32;     // Update the variable
 ```
-A list of supported types in C# can be found here: [Types and variables](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables)
+A list of supported types in C# can be found here: [Types and variables](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
 
 #### Scopes
 The lifetime of a variable is within the scope it has been defined, where each scope starts and ends with curley brackets
